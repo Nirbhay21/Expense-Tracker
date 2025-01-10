@@ -11,7 +11,7 @@ function App() {
   });
 
   return (
-    <div className="space-y-8 px-6 py-4">
+    <div className="mx-auto max-w-screen-2xl space-y-8 px-6 py-4">
       <header>
         <h1 className="text-3xl font-semibold">Track Your Expense</h1>
       </header>
